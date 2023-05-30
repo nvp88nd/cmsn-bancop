@@ -1,7 +1,7 @@
-const nameGirl = 'Em';
+const nameGirl = 'Hải lỏ :v';
 const giftUrl = '';
 const eventName = 'Chúc Mừng Sinh Nhật';
-const titleCard = 'SNVV iem';
+const titleCard = 'SNVV';
 const contentCard = 'Kao đi copy mà làm gì có văn chúc đâu hehe';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
